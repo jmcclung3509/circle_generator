@@ -1,3 +1,13 @@
-h1{
-    color: blue;
+button{
+    color: orange;
+    padding: 13px 13px;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    background-color: transparent;
+    border: 2px solid orange;
+    border-radius: 12px;
+}
+.btn_container {
+    display: flex;
+    justify-content: center;
 }
